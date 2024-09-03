@@ -5,7 +5,7 @@
 ## Notes: Componentes para LizeUI (En desarrollo pero funcional)
 
 ## DefaultState: Enabled
-## X-Curse-Project-ID: 670382
+## X-Curse-Project-ID: 1075286
 ## X-Tukui-ProjectFolders: ElvUI_LizeUI
 
 ## OptionalDeps: LibSharedMedia-3.0
