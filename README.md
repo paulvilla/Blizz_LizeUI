@@ -1,4 +1,4 @@
-# LizeUI - Plugin for ElvUI - Fonts, Textures, Sounds and Functions
+# LizeUI - Fonts, Textures, Sounds and Functions
 
 ### ENGLISH
 Addon created by Lizerius, at first the project started being used with ElvUI but since some people do not use it but the PlaterNames can add textures, fonts and others without the errors of not having ElvUI
