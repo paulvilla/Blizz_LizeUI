@@ -7,7 +7,7 @@
 ## DefaultState: Enabled
 ## X-Curse-Project-ID: 1075286
 ## X-Wago-ID: 96E7ZYGg
-## X-Tukui-ProjectFolders: ElvUI_LizeUI
+## X-Tukui-ProjectFolders: Blizz_LizeUI
 
 ## OptionalDeps: LibSharedMedia-3.0
 ## SavedVariables: RCM_SavedVariables
