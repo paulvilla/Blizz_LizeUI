@@ -1,16 +1,14 @@
 ## Interface: 100200
 ## Author: Lizerius
 ## Version: 0.5.4
-## Title: |cff1784d1ElvUI|r |cff00c0faLizeUI|r
+## Title: |cff1784d1Blizz|r |cff00c0faLizeUI|r
 ## Notes: Componentes para LizeUI (En desarrollo pero funcional)
 
 ## DefaultState: Enabled
 ## X-Curse-Project-ID: 1075286
 ## X-Wago-ID: 96E7ZYGg
-## X-Tukui-ProjectFolders: Blizz_LizeUI
 
 ## OptionalDeps: LibSharedMedia-3.0
-## SavedVariables: RCM_SavedVariables
 
 embeds.xml
 media\load_media.xml
